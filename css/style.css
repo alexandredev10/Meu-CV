@@ -119,7 +119,7 @@ body
     margin-right: 10px;
     color: #3590d2;
 }
-.container .contentBox ul .education li
+.container .contentBox ul.education li
 {
     flex-direction: column;
     margin: 25px 0;
